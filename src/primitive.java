@@ -1,5 +1,5 @@
 public class primitive {
-    public static void main(String[] args)
+    public static void main(String[] args){
 
 //       primitive datatypes which is cannont be break into further datatypes
 //        int rollno =45;
