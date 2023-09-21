@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61916181-7760-4465-b248-8bf7be4d2aa9" name="Changes" comment="primitive datatypes">
-      <change afterPath="$PROJECT_DIR$/src/Conitionsandloops.java" afterDir="false" />
+    <list default="true" id="61916181-7760-4465-b248-8bf7be4d2aa9" name="Changes" comment="Conditions and loops">
+      <change afterPath="$PROJECT_DIR$/src/countnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fibinooci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +28,9 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2Vb7pCxP84rH6chCoZkKlQ1FI4n" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,7 +43,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;E:/LEARNING/Java-Dsa/first-program/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Conitionsandloops">
+  <component name="RunManager" selected="Application.countnum">
     <configuration name="Conitionsandloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Conitionsandloops" />
       <module name="com.hari" />
@@ -62,8 +65,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="countnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="countnum" />
+      <module name="com.hari" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fibinooci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fibinooci" />
+      <module name="com.hari" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.countnum" />
+        <item itemvalue="Application.fibinooci" />
         <item itemvalue="Application.Conitionsandloops" />
         <item itemvalue="Application.Temperature" />
         <item itemvalue="Application.Input" />
@@ -103,7 +122,39 @@
       <option name="project" value="LOCAL" />
       <updated>1695094661554</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Conditions and loops">
+      <option name="closed" value="true" />
+      <created>1695266914763</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695266914763</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Conditions and loops">
+      <option name="closed" value="true" />
+      <created>1695266939378</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695266939378</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Conditions and loops">
+      <option name="closed" value="true" />
+      <created>1695266947578</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695266947578</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Conditions and loops">
+      <option name="closed" value="true" />
+      <created>1695267001127</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1695267001127</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +171,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="started learning Java programming" />
     <MESSAGE value="primitive datatypes" />
-    <option name="LAST_COMMIT_MESSAGE" value="primitive datatypes" />
+    <MESSAGE value="Conditions and loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="Conditions and loops" />
   </component>
 </project>
