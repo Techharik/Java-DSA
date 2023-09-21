@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61916181-7760-4465-b248-8bf7be4d2aa9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Temperature.java" afterDir="false" />
+    <list default="true" id="61916181-7760-4465-b248-8bf7be4d2aa9" name="Changes" comment="primitive datatypes">
+      <change afterPath="$PROJECT_DIR$/src/Conitionsandloops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +40,14 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;E:/LEARNING/Java-Dsa/first-program/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Temperature">
+  <component name="RunManager" selected="Application.Conitionsandloops">
+    <configuration name="Conitionsandloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conitionsandloops" />
+      <module name="com.hari" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Input" />
       <module name="com.hari" />
@@ -58,6 +64,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Conitionsandloops" />
         <item itemvalue="Application.Temperature" />
         <item itemvalue="Application.Input" />
       </list>
