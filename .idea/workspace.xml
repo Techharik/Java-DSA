@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61916181-7760-4465-b248-8bf7be4d2aa9" name="Changes" comment="Conditions and loops">
-      <change afterPath="$PROJECT_DIR$/src/countnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fibinooci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="61916181-7760-4465-b248-8bf7be4d2aa9" name="Changes" comment="count the number of occurence &amp;&amp; fibinocci" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,16 +39,9 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;E:/LEARNING/Java-Dsa/first-program/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.countnum">
+  <component name="RunManager" selected="Application.reversenum">
     <configuration name="Conitionsandloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Conitionsandloops" />
-      <module name="com.hari" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Input" />
       <module name="com.hari" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,13 +68,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="reversenum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reversenum" />
+      <module name="com.hari" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.reversenum" />
         <item itemvalue="Application.countnum" />
         <item itemvalue="Application.fibinooci" />
         <item itemvalue="Application.Conitionsandloops" />
         <item itemvalue="Application.Temperature" />
-        <item itemvalue="Application.Input" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695267001127</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="count the number of occurence &amp;&amp; fibinocci">
+      <option name="closed" value="true" />
+      <created>1695269005379</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1695269005379</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +176,7 @@
     <MESSAGE value="started learning Java programming" />
     <MESSAGE value="primitive datatypes" />
     <MESSAGE value="Conditions and loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="Conditions and loops" />
+    <MESSAGE value="count the number of occurence &amp;&amp; fibinocci" />
+    <option name="LAST_COMMIT_MESSAGE" value="count the number of occurence &amp;&amp; fibinocci" />
   </component>
 </project>
