@@ -10,9 +10,9 @@ public class fibinooci {
         int count =2;
 
         while (count <= n){
-            int temp  = b ;
-            b = a+b;
-            a= temp;
+            int temp  = a+b ;
+            a = b;
+            b= temp;
             count++;
         }
 

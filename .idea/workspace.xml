@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61916181-7760-4465-b248-8bf7be4d2aa9" name="Changes" comment="calculator app with loops and conditional statements">
-      <change afterPath="$PROJECT_DIR$/src/Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fibinooci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fibinooci.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +44,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;E:/LEARNING/Java-Dsa/first-program/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Switch">
+  <component name="RunManager" selected="Application.fibinooci">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculator" />
       <module name="com.hari" />
@@ -80,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.fibinooci" />
+        <item itemvalue="Application.countnum" />
         <item itemvalue="Application.Switch" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.reversenum" />
-        <item itemvalue="Application.countnum" />
-        <item itemvalue="Application.fibinooci" />
       </list>
     </recent_temporary>
   </component>
@@ -199,5 +201,20 @@
     <MESSAGE value="Reverse the given number" />
     <MESSAGE value="calculator app with loops and conditional statements" />
     <option name="LAST_COMMIT_MESSAGE" value="calculator app with loops and conditional statements" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/fibinooci.java</url>
+          <line>3</line>
+          <properties class="fibinooci" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

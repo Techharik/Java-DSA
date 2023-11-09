@@ -19,7 +19,7 @@ public class Calculator {
                 int num2 = in.nextInt();
 
                 if(op == '+'){
-                    result = num1 +num2;
+                    result = num1 + num2;
                 }
                 if(op == '-'){
                     result = num1 - num2;
