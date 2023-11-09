@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61916181-7760-4465-b248-8bf7be4d2aa9" name="Changes" comment="Function in Java">
+    <list default="true" id="61916181-7760-4465-b248-8bf7be4d2aa9" name="Changes" comment="Sum of the 2 numbers with return statement">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Function1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Function1.java" afterDir="false" />
     </list>
@@ -185,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699514151191</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Sum of the 2 numbers with return statement">
+      <option name="closed" value="true" />
+      <created>1699515397280</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1699515397280</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -207,7 +215,8 @@
     <MESSAGE value="Reverse the given number" />
     <MESSAGE value="calculator app with loops and conditional statements" />
     <MESSAGE value="Function in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Function in Java" />
+    <MESSAGE value="Sum of the 2 numbers with return statement" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sum of the 2 numbers with return statement" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
